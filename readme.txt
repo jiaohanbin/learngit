@@ -5,3 +5,5 @@ hello use the view to operate
 Git has a mutable index called stage.
 Git tracks changes of tracks
 
+first time to use the origin repository
+
